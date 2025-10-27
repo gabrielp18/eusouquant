@@ -9,7 +9,7 @@ Cada pasta representa um **post, artigo ou série de estudos** publicada — com
 
 ## 🧭 Posts
 
-- [01_taxas_retorno](./01_taxas_retorno/) — Retorno discreto vs contínuo  
+- [Post 1](https://github.com/gabrielp18/eusouquant/tree/main/post_1_retorno_discreto_continuo) — Retorno discreto vs contínuo  
 
 > Cada diretório contém:
 > - Um notebook explicativo (`.ipynb`)  
